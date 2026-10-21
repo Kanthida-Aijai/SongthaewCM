@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="18"
+        android:translateY="32"
+        android:scaleX="0.6"
+        android:scaleY="0.6">
+        <!-- Luggage Roof Rack -->
+        <path
+            android:fillColor="#E2E8F0"
+            android:pathData="M16,11h52v3H16z" />
+        <path
+            android:strokeColor="#CBD5E1"
+            android:strokeWidth="2"
+            android:strokeLineCap="round"
+            android:pathData="M22,8v3m16,-3v3m16,-3v3" />
+        <!-- Roof -->
+        <path
+            android:fillColor="#991B1B"
+            android:pathData="M12,14h58v6H12z" />
+        <!-- Main Red Body -->
+        <path
+            android:fillColor="#DC2626"
+            android:pathData="M68,18h16l14,12v18H12V18h56z" />
+        <!-- Passenger Window Cavity -->
+        <path
+            android:fillColor="#0F172A"
+            android:pathData="M16,20h48v16H16z" />
+        <!-- Window Grilles -->
+        <path
+            android:strokeColor="#94A3B8"
+            android:strokeWidth="2"
+            android:pathData="M24,20v16m12,-16v16m12,-16v16m12,-16v16" />
+        <path
+            android:strokeColor="#94A3B8"
+            android:strokeWidth="2"
+            android:pathData="M16,28h48" />
+        <!-- Front Windshield & Cabin Window -->
+        <path
+            android:fillColor="#BAE6FD"
+            android:pathData="M70,21h12l10,9H70V21z" />
+        <!-- Hood & Headlight Area -->
+        <path
+            android:fillColor="#DC2626"
+            android:pathData="M98,30h13c1.65,0 3,1.35 3,3v9c0,1.65 -1.35,3 -3,3H98V30z" />
+        <!-- Headlight Yellow -->
+        <path
+            android:fillColor="#FDE047"
+            android:pathData="M109,34h4v6h-4z" />
+        <!-- Side Stripes -->
+        <path
+            android:fillColor="#FEF2F2"
+            android:pathData="M12,38h98v4H12z" />
+        <path
+            android:fillColor="#B91C1C"
+            android:pathData="M12,42h98v6H12z" />
+        <!-- Steps & Bumper -->
+        <path
+            android:fillColor="#64748B"
+            android:pathData="M6,45h6v4H6z" />
+        <path
+            android:fillColor="#94A3B8"
+            android:pathData="M110,43h5v5h-5z" />
+        <!-- Wheel Arches -->
+        <path
+            android:fillColor="#0F172A"
+            android:pathData="M24,48a10,10 0 0,1 20,0H24zm54,0a10,10 0 0,1 20,0H78z" />
+        <!-- Wheels -->
+        <path
+            android:fillColor="#1E293B"
+            android:pathData="M34,40a9,9 0 1,0 0,18a9,9 0 1,0 0,-18z" />
+        <path
+            android:fillColor="#E2E8F0"
+            android:pathData="M34,44a5,5 0 1,0 0,10a5,5 0 1,0 0,-10z" />
+        <path
+            android:fillColor="#64748B"
+            android:pathData="M34,46.5a2.5,2.5 0 1,0 0,5a2.5,2.5 0 1,0 0,-5z" />
+        <path
+            android:fillColor="#1E293B"
+            android:pathData="M88,40a9,9 0 1,0 0,18a9,9 0 1,0 0,-18z" />
+        <path
+            android:fillColor="#E2E8F0"
+            android:pathData="M88,44a5,5 0 1,0 0,10a5,5 0 1,0 0,-10z" />
+        <path
+            android:fillColor="#64748B"
+            android:pathData="M88,46.5a2.5,2.5 0 1,0 0,5a2.5,2.5 0 1,0 0,-5z" />
+    </group>
+</vector>

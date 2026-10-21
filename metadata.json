@@ -1,0 +1,6 @@
+{
+  "name": "Songthaew CM",
+  "description": "Chiang Mai Smart Songthaew Transit & Tourism Platform with live routes, booking, and navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
